@@ -1,5 +1,5 @@
 ---
-title: Gift Cards2
+title: Gift Cards
 featured_image: "/img/author.jpg"
 description: We'd love to hear from you
 type: page
