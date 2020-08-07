@@ -1,6 +1,6 @@
 ---
 title: Gift Cards2
-featured_image: "/img/notebook.jpg"
+featured_image: "/img/author.jpg"
 description: We'd love to hear from you
 type: page
 menu: 
