@@ -7,7 +7,7 @@ menu:
   main:
     weight: 1
 ---
-### APPETIZERS $5.95
+### APPETIZERS
 
 **A1 VEGGIE SPRING ROLL (4)**\
 Crispy Thai veggie spring rolls with sweet sauce.
