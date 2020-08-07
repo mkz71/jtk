@@ -11,8 +11,10 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
+  favicon = ""
+  site_logo = "/img/tiktok-logo.svg"
   facebook = "tt"
   twitter = "https://twitter.com/GoHugoIO"
   instagram = "tt"
   background_color_class = "bg-black"
-  site_logo = "img/tiktok-logo.svg"
+  featured_image = "/img/author.jpg"
