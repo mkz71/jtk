@@ -2,6 +2,7 @@
 title: "Coconut Soup"
 date: 2020-08-11T10:02:05-04:00
 featured_image: "/img/tomkha1.jpg"
+tags: ["Soup"]
 ---
 
 {{< figure src="/img/tomkha1.jpg">}}

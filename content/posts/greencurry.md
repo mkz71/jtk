@@ -1,7 +1,10 @@
 ---
 title: "Green Curry"
 date: 2020-08-11T10:16:23-04:00
+description: "Most popular Thai curry"
 featured_image: "/img/greencurry1.jpg"
+tags: ["Main Dish"]
+disable_share: false
 ---
 
 {{< figure src="/img/greencurry1.jpg">}}
