@@ -12,9 +12,11 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/img/tiktok-logo.svg"
-  facebook = "tt"
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = "tt"
+  site_logo = "/img/JustThai2.svg"
+  facebook = "https://www.facebook.com/Just-Thai-Boston-100503341771699"
+  twitter = "https://twitter.com/justthaiboston"
+  instagram = "https://www.instagram.com/justthaiboston"
+  body_classes = "avenir bg-light-green"
   background_color_class = "bg-black"
   featured_image = "/img/author.jpg"
+  recent_posts_number = 2
