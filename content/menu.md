@@ -50,10 +50,10 @@ Fried tofu until golden brown, served with sweet sauce & ground peanut.
 **(No Protein) +$0.00 (Chicken) +$0.50 (Shrimp) +$1.50**
 
 **S1 TOM YUM SOUP 🌶**\
-Thai hot and sour soup with lemongrass, lime juice, tomato, mushroom, scallion, cilantro.
+Thai hot and sour soup with lemongrass, lime juice, tomato, mushroom.
 
 **S2 COCONUT SOUP**\
-Thai coconut soup with galangal, lime juice, mushroom, scallion, cilantro.
+Thai coconut soup with galangal, lime juice, mushroom.
 
 **S3 DUMPLING SOUP +$0.50 (no choice of protein)**\
 Chicken dumpling soup with lettuce, scallion in a clear broth.
@@ -71,11 +71,10 @@ Chicken dumpling soup with lettuce, scallion in a clear broth.
 Rice noodle stir-fried with egg, bean sprout, sweet radish, scallion, ground peanut in our house sauce.
 
 **N2 PAD KEE MAO 🌶**\
-Flat rice noodle stir-fried with egg, sweet basil, onion, bamboo shoot, baby corn, napa cabbage,
-mushroom, bell pepper in spicy drunken sauce.
+Flat rice noodle stir-fried with egg, sweet basil, onion, bamboo shoot, baby corn, mushroom, bell pepper in spicy drunken sauce.
 
 **N3 PAD SEE EW**\
-Flat rice noodle stir-fried with egg, Chinese broccoli in dark sweet soy sauce.
+Flat rice noodle stir-fried with egg, Chinese broccoli, carrot in dark sweet soy sauce.
 
 **N4 CHILI LO-MEIN​ 🌶**\
 Lo-mein noodle stir-fried with bell pepper, sweet basil, napa cabbage, bean sprout in spicy chili sauce.
@@ -161,7 +160,7 @@ Roasted pork, crispy pork-belly, bok choy, scallion, half boiled egg topped with
 soybean gravy.
 
 **F5 KHAO MOO YANG +$2.25**\
-Grilled marinated pork served with sweet chili sauce, cucumber, tomato.
+Grilled marinated BBQ pork served with sweet chili sauce, cucumber, tomato.
 
 **F6 KHAO GAI TOD +$2.25**\
 Crispy chicken served with sweet chili sauce, cucumber, tomato.
@@ -188,8 +187,8 @@ Stir-fried Chinese broccoli in garlic oyster sauce.
 **Steamed Rice Noodles $2.50**\
 **Fried Egg $2.00**\
 **Steamed Veggies $3.95**\
-**Peanut Sauce $0.75**\
-**Sweet Sauce $0.10**
+**Peanut Sauce $1.25**\
+**Sriracha Sauce $0.25**
 
 # Drinks
 
