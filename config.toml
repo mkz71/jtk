@@ -20,3 +20,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/img/author.jpg"
   recent_posts_number = 2
+
+[taxonomies]
+# Use singular rather than plural for default taxonomies
+tag = "tags"
+category = "category"
