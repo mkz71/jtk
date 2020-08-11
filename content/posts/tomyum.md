@@ -2,7 +2,6 @@
 title: "Tom Yum"
 date: 2020-08-07T18:46:26-04:00
 featured_image: "/img/tomyum1.jpg"
-draft: true
 ---
 
 {{< figure src="/img/tomyum1.jpg">}}

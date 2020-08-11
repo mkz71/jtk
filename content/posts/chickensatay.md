@@ -2,7 +2,6 @@
 title: "Chicken Satay"
 date: 2020-08-10T09:23:36-04:00
 featured_image: "/img/chickensatay1.jpg"
-draft: true
 ---
 
 {{< figure src="/img/chickensatay1.jpg">}}

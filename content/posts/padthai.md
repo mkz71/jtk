@@ -2,7 +2,6 @@
 title: "Pad Thai"
 date: 2020-08-07T18:46:35-04:00
 featured_image: "/img/padthai1.jpg"
-draft: true
 ---
 
 {{< figure src="/img/padthai1.jpg">}}
