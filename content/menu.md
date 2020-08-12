@@ -8,7 +8,7 @@ menu:
     name: Menu
     weight: 1
 ---
-# Just Snack
+# Just Snack2
 
 **A1 SPRING ROLL (3) $4.25**\
 Crispy veggie spring roll, served with sweet sauce.
