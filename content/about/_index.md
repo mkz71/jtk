@@ -1,21 +1,15 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Just Thai is the Boston, MA area’s best restaurant for take-out and delivery of authentic Thai food."
 featured_image: '/img/author.jpg'
 menu: 
   main:
     name: About
     weight: 6
 ---
-{{< figure src="/img/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/img/author.jpg" title="Just Thai Boston" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
-
-{{< figure src="/img/author.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
-
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
-
-### Just Thai is the Dorchester, MA area’s best restaurant for take-out and delivery of authentic Thai food.
+### Just Thai is the Boston, MA area’s best restaurant for take-out and delivery of authentic Thai food.
 Since 2019, our family-owned and operated restaurant serves a delectable menu that boasts over many dishes that includes the most authentic and traditional Thai dishes in the area. We offer fast and friendly service whether you decide to have your meal delivered or choose to pick it up at our convenient location.
 
 Addtionally, Just Thai has been offering complete catering services. Contact us to help plan your next party or event. Our catering menu offers a variety of traditional, authentic Thai dishes, and we will deliver to your home, office, school or banquet hall.
@@ -34,6 +28,6 @@ Dorchester, MA 02122
 **Mon-Thur** 11:00pm-9:30pm  
 **Fir-Sat** 11:00pm-10:00pm
 
-### Access Map
+### Map
 
 {{< map  >}}

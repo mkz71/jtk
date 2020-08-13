@@ -1,14 +1,14 @@
 ---
 title: Menu
 featured_image: "/img/author.jpg"
-description: We'd love to hear from you
+description: The best Thai menu in town
 type: page
 menu: 
   main:
     name: Menu
     weight: 1
 ---
-# Just Snack2
+# Just Snack
 
 **A1 SPRING ROLL (3) $4.25**\
 Crispy veggie spring roll, served with sweet sauce.
