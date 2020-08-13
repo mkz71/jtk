@@ -3,6 +3,7 @@ title: "Green Curry"
 date: 2020-08-11T10:16:23-04:00
 description: "Most popular Thai curry"
 featured_image: "/img/greencurry1.jpg"
+body_classes: "avenir bg-light-green"
 tags: ["Main Dish"]
 disable_share: false
 ---
