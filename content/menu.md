@@ -164,12 +164,12 @@ Stir-fried Thai basil, Jalapeños, bell pepper in spicy kapow sauce.
 
 **F2 KHAO MED PRIK THAI ON 🌶**\
 **Pork +$0.75**\
-**Beef / Shrimp) +$2.50**\
+**Beef / Shrimp +$2.50**\
 Stir-fried Thai basil, bell pepper, rhizome, peppercorn in Thai chili paste.
 
 **F3 KHAO KATIEM**\
 **Chicken / Pork +$0.75**\
-**Beef / Shrimp) +$2.95**\
+**Beef / Shrimp +$2.95**\
 Stir-fried Thai garlic & pepper sauce with chopped scallion.
 
 **F4​ ​KHAO MOO DANG +$2.75**\
