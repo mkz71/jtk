@@ -25,8 +25,8 @@ Dorchester, MA 02122
 
 ### Hours
 **Sun** 12:00pm-9:30pm  
-**Mon-Thur** 11:00pm-9:30pm  
-**Fir-Sat** 11:00pm-10:00pm
+**Mon-Thur** 11:00am-9:30pm  
+**Fir-Sat** 11:00am-10:00pm
 
 ### Map
 
