@@ -62,7 +62,9 @@ Chicken dumpling soup with lettuce, scallion in a clear broth.
 # Just Noodles & Fried Rice $9.95
 
 ##### Add a Fried Egg on Top +$2
-##### Choice of Proteins.. (No Protein) +$0.00 (Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95 (Vegan Meat) +$2.25 (Crispy Chicken or Crispy Pork-Belly) +$2.50 (Beef or Shrimp) +$2.95
+##### Choice of Proteins.. (No Protein) +$0.00 
+##### (Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95 (Vegan Meat) +$2.25 
+##### (Crispy Chicken or Crispy Pork-Belly) +$2.50 (Beef or Shrimp) +$2.95
 
 **N1 PAD THAI**\
 Rice noodle stir-fried with egg, bean sprout, sweet radish, scallion, ground peanut in our house sauce.
