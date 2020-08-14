@@ -10,7 +10,7 @@ menu:
 ---
 # Just Snack
 
-**A1 SPRING ROLL (3) $5.25**\
+**A1 SPRING ROLL (3) $4.25**\
 Crispy veggie spring roll, served with sweet sauce.
 
 **A2 CHICKEN SATAY (4) $6.50**\
