@@ -46,8 +46,7 @@ Fried tofu until golden brown, served with sweet sauce & ground peanut.
 
 # Just Soup $4.25
 
-**Choice of Proteins..**\
-**(No Protein) +$0.00 (Chicken) +$0.50 (Shrimp) +$1.50**
+##### Choice of Proteins.. (No Protein) +$0.00 (Chicken) +$0.50 (Shrimp) +$1.50
 
 **S1 TOM YUM SOUP 🌶**\
 Thai hot and sour soup with lemongrass, lime juice, tomato, mushroom.
@@ -62,10 +61,8 @@ Chicken dumpling soup with lettuce, scallion in a clear broth.
 
 # Just Noodles & Fried Rice $9.95
 
-**Add a Fried Egg on Top +$2**\
-**Choice of Proteins.. (No Protein) +$0.00**\
-**(Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95 (Vegan Meat) +$2.25**\
-**(Crispy Chicken or Crispy Pork-Belly) +$2.50 (Beef or Shrimp) +$2.95**  
+##### Add a Fried Egg on Top +$2
+##### Choice of Proteins.. (No Protein) +$0.00 (Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95 (Vegan Meat) +$2.25 (Crispy Chicken or Crispy Pork-Belly) +$2.50 (Beef or Shrimp) +$2.95
 
 **N1 PAD THAI**\
 Rice noodle stir-fried with egg, bean sprout, sweet radish, scallion, ground peanut in our house sauce.
@@ -98,11 +95,9 @@ Fried rice with egg, pineapple, onion, scallion, raisin, bell pepper in Thai cur
 
 # Just Main Dish $10.95
 
-**(Served with White Rice)**\
-**Add a Fried Egg on Top +$2**\
-**Choice of Proteins..**\
-**(No Protein) +$0.00 (Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95**\
-**(Vegan Meat) +$2.25 (Roasted Pork) +$2.50 (Beef or Shrimp) +$2.95**
+##### (Served with White Rice)
+##### Add a Fried Egg on Top +$2
+##### Choice of Proteins.. (No Protein) +$0.00 (Chicken or Pork) +$0.75 (Veggie & Tofu) +$0.95 (Vegan Meat) +$2.25 (Roasted Pork) +$2.50 (Beef or Shrimp) +$2.95
 
 **M1 GREEN CURRY 🌶**\
 Green Curry with coconut milk, sweet basil, eggplant, green peas, bamboo shoot, bell pepper, mushroom.
@@ -139,12 +134,11 @@ Sauteed with bok choy, mushroom, bamboo shoot, bell pepper in pik-pow chili past
 
 # Just Authentic Thai $10.25
 
-**(Served over White Rice)**\
-**Add a Fried Egg on Top +$2**
+##### (Served over White Rice)
+##### Add a Fried Egg on Top +$2
 
-**F1 KHAO KAPOW 🌶**\
-**(Ground Chicken or Ground Pork) +$0.75 (Beef or Shrimp) +$2.95**\
-**(Crispy Chicken or Crispy Pork-Belly or Roasted Pork) +$2.50**\
+**F1 KHAO KAPOW 🌶**
+##### Ground Chicken or Ground Pork) +$0.75 (Beef or Shrimp) +$2.95 (Crispy Chicken or Crispy Pork-Belly or Roasted Pork) +$2.50
 Stir-fried Thai basil, Jalapeños, bell pepper in spicy kapow sauce.
 
 **F2 KHAO MED PRIK THAI ON 🌶**\
