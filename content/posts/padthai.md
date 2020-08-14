@@ -1,7 +1,7 @@
 ---
 title: "Pad Thai"
 date: 2020-08-07T18:46:35-04:00
-description: "Most popular Thai curry"
+description: "Most popular Thai noodle"
 featured_image: "/img/padthai1.jpg"
 body_classes: "avenir bg-washed-red"
 tags: ["Noodle"]
