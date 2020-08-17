@@ -158,13 +158,13 @@ Sauteed with bok choy, mushroom, bamboo shoot, bell pepper in pik-pow chili past
 
 **F1 KHAO KAPOW 🌶**\
 **Ground Chicken / Ground Pork +$0.75**\
-**Beef / Shrimp +$2.95**\
 **Crispy Chicken / Crispy Pork-Belly / Roasted Pork +$2.50**\
+**Beef / Shrimp +$2.95**\
 Stir-fried Thai basil, Jalapeños, bell pepper in spicy kapow sauce.
 
 **F2 KHAO MED PRIK THAI ON 🌶**\
 **Pork +$0.75**\
-**Beef / Shrimp +$2.50**\
+**Crispy Prok-Belly +$2.50**\
 Stir-fried Thai basil, bell pepper, rhizome, peppercorn in Thai chili paste.
 
 **F3 KHAO KATIEM**\
@@ -173,8 +173,7 @@ Stir-fried Thai basil, bell pepper, rhizome, peppercorn in Thai chili paste.
 Stir-fried Thai garlic & pepper sauce with chopped scallion.
 
 **F4​ ​KHAO MOO DANG +$2.75**\
-Roasted pork, crispy pork-belly, bok choy, scallion, half boiled egg topped with homemade sweet red
-soybean gravy.
+Roasted pork, crispy pork-belly, bok choy, scallion, half boiled egg topped with homemade sweet red soybean gravy.
 
 **F5 KHAO MOO YANG +$2.25**\
 Grilled marinated BBQ pork served with sweet chili sauce, cucumber, tomato.
